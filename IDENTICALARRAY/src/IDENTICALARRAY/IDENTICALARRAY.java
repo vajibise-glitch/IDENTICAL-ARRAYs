@@ -1,7 +1,5 @@
 package IDENTICALARRAY;
 
-import java.util.Scanner;
-
 public class IDENTICALARRAY {
 
     public static void main(String[] args) {
